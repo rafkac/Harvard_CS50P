@@ -13,4 +13,4 @@ My solutions to the problem sets for Harvard University course [CS50's Introduct
 - [Problem set 4](/week4/)
 - [Problem set 5](/week5/)
 - [Problem set 6](/week6/)
-
+- [Problem set 7](/week7/)
