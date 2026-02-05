@@ -1,5 +1,5 @@
 import pytest
-from seasons import get_date, minutes_str
+from week8.seasons.seasons import get_date, minutes_str
 from datetime import date, timedelta
 
 
