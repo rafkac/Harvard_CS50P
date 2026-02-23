@@ -6,12 +6,12 @@ My solutions to the problem sets for Harvard University course [CS50's Introduct
 
 
 ## Table of contents
-- [Problem set 0](week0//README.md)
-- [Problem set 1](week1//README.md)
-- [Problem set 2](week2//README.md)
-- [Problem set 3](week3//README.md)
-- [Problem set 4](week4//README.md)
-- [Problem set 5](week5//README.md)
-- [Problem set 6](week6//README.md)
-- [Problem set 7](week7//README.md)
-- [Problem set 8](week8//README.md)
+- [Problem set 0](https://github.com/rafkac/Harvard_CS50P/tree/main/week0)
+- [Problem set 1](https://github.com/rafkac/Harvard_CS50P/tree/main/week1)
+- [Problem set 2](https://github.com/rafkac/Harvard_CS50P/tree/main/week2)
+- [Problem set 3](https://github.com/rafkac/Harvard_CS50P/tree/main/week3)
+- [Problem set 4](https://github.com/rafkac/Harvard_CS50P/tree/main/week4)
+- [Problem set 5](https://github.com/rafkac/Harvard_CS50P/tree/main/week5)
+- [Problem set 6](https://github.com/rafkac/Harvard_CS50P/tree/main/week6)
+- [Problem set 7](https://github.com/rafkac/Harvard_CS50P/tree/main/week7)
+- [Problem set 8](https://github.com/rafkac/Harvard_CS50P/tree/main/week8)
